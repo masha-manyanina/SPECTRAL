@@ -10,15 +10,16 @@ body {
     font-family: 'Spectral';
     position: relative;
 }
-body::after {
+/* body::after {
   content: '';
   position: absolute;
   top: 0;
   left: 0;
+  background-image: url('../images/maket.svg');
   width: 1441px;
-  height: 7687px;
+  height: 7862px;
   opacity: 0.2;
-}
+} */
 .section-1 {
     display: flex;
     width: 1215px;
